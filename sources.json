@@ -1,0 +1,62 @@
+[
+  {
+    "name": "প্রথম আলো",
+    "url": "https://www.prothomalo.com/feed/",
+    "language": "bn"
+  },
+  {
+    "name": "The Daily Star",
+    "url": "https://www.thedailystar.net/frontpage/rss.xml",
+    "language": "en"
+  },
+  {
+    "name": "bdnews24.com",
+    "url": "https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true",
+    "language": "mixed"
+  },
+  {
+    "name": "বাংলানিউজ২৪",
+    "url": "https://www.banglanews24.com/rss/rss.xml",
+    "language": "bn"
+  },
+  {
+    "name": "যুগান্তর",
+    "url": "https://www.jugantor.com/feed/rss.xml",
+    "language": "bn"
+  },
+  {
+    "name": "জাগো নিউজ ২৪",
+    "url": "https://www.jagonews24.com/rss/rss.xml",
+    "language": "bn"
+  },
+  {
+    "name": "কালের কণ্ঠ",
+    "url": "https://www.kalerkantho.com/rss.xml",
+    "language": "bn"
+  },
+  {
+    "name": "Bangla Tribune",
+    "url": "https://www.banglatribune.com/feed",
+    "language": "bn"
+  },
+  {
+    "name": "Dhaka Tribune",
+    "url": "https://www.dhakatribune.com/feed",
+    "language": "en"
+  },
+  {
+    "name": "The Business Standard",
+    "url": "https://www.tbsnews.net/rss.xml",
+    "language": "en"
+  },
+  {
+    "name": "The Financial Express",
+    "url": "https://thefinancialexpress.com.bd/rss",
+    "language": "en"
+  },
+  {
+    "name": "BBC বাংলা",
+    "url": "https://feeds.bbci.co.uk/bengali/rss.xml",
+    "language": "bn"
+  }
+]
