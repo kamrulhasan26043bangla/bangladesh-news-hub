@@ -1,0 +1,37 @@
+
+name: Update Bangladesh News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect news headlines
+        env:
+          MAX_STORIES: "120"
+          MAX_AGE_HOURS: "36"
+        run: python update_news.py
+
+      - name: Save updated news
+        run: |
+          git config user.name "Bangladesh News Hub Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news.json data/archive
+          git diff --cached --quiet || git commit -m "Update news edition"
+          git push
