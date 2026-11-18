@@ -8,7 +8,7 @@ from pathlib import Path
 import feedparser
 import requests
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 BD = ZoneInfo("Asia/Dhaka")
 NOW = datetime.now(timezone.utc)
 MAX_AGE_HOURS = int(os.getenv("MAX_AGE_HOURS", "36"))
