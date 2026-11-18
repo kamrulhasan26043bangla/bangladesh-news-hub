@@ -1,9 +1,1196 @@
 {
-  "edition_date": "প্রথম আপডেটের অপেক্ষায়",
-  "updated_at": null,
+  "edition_date": "2026-11-19",
+  "updated_at": "2026-11-19T04:35:49.856702+06:00",
   "timezone": "Asia/Dhaka",
-  "count": 0,
+  "count": 75,
   "summary_mode": "Original headlines and publisher links; no AI summaries",
-  "stories": [],
-  "feed_status": []
+  "stories": [
+    {
+      "title": "গোপালগঞ্জে এমপির হাসপাতালে ভাঙচুর-আগুন, নড়াইলে হামলায় দুই বিএনপি নেতা নিহত",
+      "url": "https://www.bbc.co.uk/bengali/live/cwe9kn24gdn9t?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T22:35:44.631612+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9456/live/39a25480-e373-11f1-99b6-a35a62fa4264.png",
+      "category": "স্বাস্থ্য",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.co.uk/bengali/live/cwe9kn24gdn9t?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "cff326f87558",
+      "rank": 1
+    },
+    {
+      "title": "টুঙ্গিপাড়া থানা ও বিএনপির এমপি জিলানীর বাড়িতে হামলার পর আগুন",
+      "url": "https://www.bbc.co.uk/bengali/live/cmx2xw1r4wldt?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T22:35:44.631612+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fe/live/c892c960-e29a-11f1-8dda-8925a81c3da5.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.co.uk/bengali/live/cmx2xw1r4wldt?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "a95e74533a3a",
+      "rank": 2
+    },
+    {
+      "title": "নলডাঙ্গায় ‘জয় বাংলা’ স্লোগান দিয়ে সড়কে আগুন-ককটেল বিস্ফোরণ",
+      "url": "https://www.jagonews24.com/country/news/1181156",
+      "published": "2026-11-18T22:22:03+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181156"
+        }
+      ],
+      "id": "96e4274c4874",
+      "rank": 3
+    },
+    {
+      "title": "চট্টগ্রাম বন্দর ও কমলাপুরে বাড়তি স্টোররেন্ট আদায় স্থগিতের মেয়াদ বাড়ল",
+      "url": "https://www.jagonews24.com/economy/news/1181155",
+      "published": "2026-11-18T21:45:34+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/economy/news/1181155"
+        }
+      ],
+      "id": "06f353fc3b5e",
+      "rank": 4
+    },
+    {
+      "title": "‘আলো আসবেই’ গ্রুপের অভিনেত্রী জ্যোতিকা জ্যোতি আটক",
+      "url": "https://www.jagonews24.com/national/news/1181154",
+      "published": "2026-11-18T21:10:32+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181154"
+        }
+      ],
+      "id": "579a90e012de",
+      "rank": 5
+    },
+    {
+      "title": "সাবেক শিক্ষামন্ত্রী নুরুল ইসলাম নাহিদকে আটক করেছে পুলিশ",
+      "url": "https://www.prothomalo.com/bangladesh/27l8njjfeg",
+      "published": "2026-11-18T21:04:03+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/vzr1lde2/WhatsApp-Image-2026-11-19-at-3.00.58-AM.jpeg",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/27l8njjfeg"
+        }
+      ],
+      "id": "769ef69cf1c0",
+      "rank": 6
+    },
+    {
+      "title": "শাকিব খানের নায়িকা এবার কিয়ারা আদভানি? আভাস দিলেন প্রযোজক",
+      "url": "https://www.jagonews24.com/entertainment/news/1181153",
+      "published": "2026-11-18T20:53:19+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/entertainment/news/1181153"
+        }
+      ],
+      "id": "abe21b0db57a",
+      "rank": 7
+    },
+    {
+      "title": "সাবেক শিক্ষামন্ত্রী নুরুল ইসলাম নাহিদ গ্রেফতার",
+      "url": "https://www.jagonews24.com/national/news/1181152",
+      "published": "2026-11-18T20:30:52+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181152"
+        }
+      ],
+      "id": "3f7f64a001e2",
+      "rank": 8
+    },
+    {
+      "title": "নাশকতাকারীদের ‘টার্গেট’ এখন রাষ্ট্রীয় স্থাপনা",
+      "url": "https://www.prothomalo.com/bangladesh/crime/j74j4q6jn7",
+      "published": "2026-11-18T20:24:04+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-17/hgkmqdss/gopaljanj11.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/j74j4q6jn7"
+        }
+      ],
+      "id": "19b9b3b7a7fd",
+      "rank": 9
+    },
+    {
+      "title": "ঢাকা-সিলেট মহাসড়কে যাত্রীবাহী বাসে পেট্রোল বোমা হামলা",
+      "url": "https://www.jagonews24.com/country/news/1181151",
+      "published": "2026-11-18T20:21:08+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181151"
+        }
+      ],
+      "id": "3930742f2be5",
+      "rank": 10
+    },
+    {
+      "title": "সাউথইস্ট ব্যাংকের পরিচালনা পর্ষদে মো. নুরুল আফছার",
+      "url": "https://www.prothomalo.com/business/corporate/ye6z9ha899",
+      "published": "2026-11-18T20:15:53+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/xn06syap/Md.-Nurul-Afsar.jpg",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/corporate/ye6z9ha899"
+        }
+      ],
+      "id": "d33eb4f5944d",
+      "rank": 11
+    },
+    {
+      "title": "বিশেষ সৌরবিদ্যুৎ স্থাপন বিল পাস, ক্রয় প্রক্রিয়ায় ই-জিপি আবশ্যক নয়",
+      "url": "https://www.prothomalo.com/bangladesh/w27ntdzxlr",
+      "published": "2026-11-18T20:11:53+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/997wmr08/5.avif",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/w27ntdzxlr"
+        }
+      ],
+      "id": "2f08abd9b556",
+      "rank": 12
+    },
+    {
+      "title": "রাজপথে নামার আগে মা-বাবার কাছ থেকে বিদায় নিয়ে আসুন: আ.লীগের নেতা-কর্মীদের উদ্দেশে যুবদলের নেতারা",
+      "url": "https://www.prothomalo.com/politics/0mlqi97ljv",
+      "published": "2026-11-18T20:08:01+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/iyanx1ii/BNP-Jubodal.jpg",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/politics/0mlqi97ljv"
+        }
+      ],
+      "id": "8d6564efd95c",
+      "rank": 13
+    },
+    {
+      "title": "থ্যালাসেমিয়া রোগীদের সহায়তার লক্ষ্যে রেনাটার রক্তদান কর্মসূচি",
+      "url": "https://www.prothomalo.com/bangladesh/0rh019f365",
+      "published": "2026-11-18T20:03:59+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/c1hoaucq/Renata-Blood-Donation.jpeg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/0rh019f365"
+        }
+      ],
+      "id": "1c47da3da39e",
+      "rank": 14
+    },
+    {
+      "title": "চাঁদপুরে দীপু মনি ও সুজিত রায় নন্দীর বাড়িতে আগুন",
+      "url": "https://www.jagonews24.com/country/news/1181150",
+      "published": "2026-11-18T19:57:20+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181150"
+        }
+      ],
+      "id": "9bf25dd53709",
+      "rank": 15
+    },
+    {
+      "title": "ট্রাইব্যুনাল সাজা দেওয়ায় গোপালগঞ্জ-গাজীপুরে আন্দোলন হলেও গুলি করা হয় না: প্রসিকিউটর",
+      "url": "https://www.prothomalo.com/bangladesh/s1pctyxjxd",
+      "published": "2026-11-18T19:54:54+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-01-26/6vlpytp6/3.avif",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/s1pctyxjxd"
+        }
+      ],
+      "id": "48219c4a1445",
+      "rank": 16
+    },
+    {
+      "title": "প্রধানমন্ত্রীর সঙ্গে জামায়াত আমিরের একান্ত বৈঠক",
+      "url": "https://www.jagonews24.com/national/news/1181149",
+      "published": "2026-11-18T19:44:49+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181149"
+        }
+      ],
+      "id": "6d42990a9371",
+      "rank": 17
+    },
+    {
+      "title": "চট্টগ্রামে অধ্যাপক ইউনূসের পৈতৃক বাড়িতে আগুন",
+      "url": "https://www.prothomalo.com/bangladesh/x9ip5qhj5b",
+      "published": "2026-11-18T19:30:25+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/gabmvq0a/WhatsApp-Image-2026-11-19-at-1.24.45-AM.jpeg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/x9ip5qhj5b"
+        }
+      ],
+      "id": "019ab32bd2d8",
+      "rank": 18
+    },
+    {
+      "title": "মিল্ক ভিটার চেয়ারম্যানের বাড়ি লক্ষ্য করে পেট্রোল বোমা নিক্ষেপ",
+      "url": "https://www.jagonews24.com/country/news/1181148",
+      "published": "2026-11-18T19:22:46+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181148"
+        }
+      ],
+      "id": "513d818fd60d",
+      "rank": 19
+    },
+    {
+      "title": "১ হাজার ২০০ টাকার বই ‘নিলামে’ বিক্রি হলো ১ লাখ ৩০ হাজার টাকায়",
+      "url": "https://www.prothomalo.com/bangladesh/hrscc4tifj",
+      "published": "2026-11-18T19:20:49+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/8ta9hya2/KADIAYNI.jpeg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/hrscc4tifj"
+        }
+      ],
+      "id": "d18fcd8b897f",
+      "rank": 20
+    },
+    {
+      "title": "রাতে রাজধানীর তিন জায়গায় ককটেল বিস্ফোরণ, ট্রাকে আগুন",
+      "url": "https://www.prothomalo.com/bangladesh/crime/7rd7w7wxi7",
+      "published": "2026-11-18T19:16:48+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/29vwhyop/Shere-Bangla-Cocktail-01.jpeg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/crime/7rd7w7wxi7"
+        }
+      ],
+      "id": "e3f817ffad93",
+      "rank": 21
+    },
+    {
+      "title": "মাদারীপুরে শাজাহান খানের ব্যবসাপ্রতিষ্ঠানে হামলা-ভাঙচুর",
+      "url": "https://www.jagonews24.com/country/news/1181147",
+      "published": "2026-11-18T19:05:58+00:00",
+      "image": "",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181147"
+        }
+      ],
+      "id": "efeb2893d6d1",
+      "rank": 22
+    },
+    {
+      "title": "হাতির গায়ে আটটি গুলি, সন্দেহে মানবপাচারকারীরা",
+      "url": "https://www.prothomalo.com/bangladesh/posvzvu3l4",
+      "published": "2026-11-18T18:58:49+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/nytepn2u/Woundedelephant.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/posvzvu3l4"
+        }
+      ],
+      "id": "79a05413f62b",
+      "rank": 23
+    },
+    {
+      "title": "সাবেক শিক্ষামন্ত্রী নওফেলের বাসভবনে পুলিশের তল্লাশি",
+      "url": "https://www.jagonews24.com/national/news/1181146",
+      "published": "2026-11-18T18:49:48+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181146"
+        }
+      ],
+      "id": "23037f030d4c",
+      "rank": 24
+    },
+    {
+      "title": "মুসলিম নেতার সঙ্গে শাকিরার খুনসুটি ভাইরাল",
+      "url": "https://www.jagonews24.com/entertainment/news/1181145",
+      "published": "2026-11-18T18:34:27+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/entertainment/news/1181145"
+        }
+      ],
+      "id": "1c1f3cf2802c",
+      "rank": 25
+    },
+    {
+      "title": "নিরাপত্তার কারণে বাগেরহাট থেকে ঢাকা-চট্টগ্রামগামী বাস চলাচল বন্ধ",
+      "url": "https://www.jagonews24.com/country/news/1181144",
+      "published": "2026-11-18T18:31:31+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181144"
+        }
+      ],
+      "id": "8ec9be942205",
+      "rank": 26
+    },
+    {
+      "title": "কর্ণফুলীতে বিএনপির প্রতিবাদ মিছিলে বাসের ধাক্কা, আহত একাধিক",
+      "url": "https://www.jagonews24.com/politics/news/1181143",
+      "published": "2026-11-18T18:20:42+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/politics/news/1181143"
+        }
+      ],
+      "id": "b67c4d713086",
+      "rank": 27
+    },
+    {
+      "title": "গায়ে ৮ গুলি নিয়ে ঘুরছিল হাতিটি, খুঁজে বের করে দেওয়া হচ্ছে চিকিৎসা",
+      "url": "https://www.prothomalo.com/video/bangladesh/k83dubb2tm",
+      "published": "2026-11-18T18:17:14+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/u2kzjq7j/Coxs-Elephant.00041614.Still002.jpg",
+      "category": "স্বাস্থ্য",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/video/bangladesh/k83dubb2tm"
+        }
+      ],
+      "id": "6e2ef727f50f",
+      "rank": 28
+    },
+    {
+      "title": "গোপালগঞ্জে অস্ত্র নিয়ে নিষিদ্ধ ছাত্রলীগের মহড়া, এমপির বাসায় হামলা-আগুন",
+      "url": "https://www.prothomalo.com/video/bangladesh/b3wqw3avbm",
+      "published": "2026-11-18T18:11:21+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/ed27uurc/web.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/video/bangladesh/b3wqw3avbm"
+        }
+      ],
+      "id": "fa182103e719",
+      "rank": 29
+    },
+    {
+      "title": "নারায়ণগঞ্জের বন্দর: আগের সেই কুমির কি এবার নতুন পুকুরে",
+      "url": "https://www.prothomalo.com/bangladesh/district/w4z9czovvo",
+      "published": "2026-11-18T18:10:00+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/y7s0crbb/narayangonjdh078020261118vid-20261118-wa025322.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/w4z9czovvo"
+        }
+      ],
+      "id": "37fa22bb131c",
+      "rank": 30
+    },
+    {
+      "title": "কার্যক্রম নিষিদ্ধ যুবলীগের সম্পাদক নিখিলের মিরপুরের বাসায় হামলা-আগুন",
+      "url": "https://www.jagonews24.com/national/news/1181142",
+      "published": "2026-11-18T18:06:23+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181142"
+        }
+      ],
+      "id": "6c0c9a1577da",
+      "rank": 31
+    },
+    {
+      "title": "দীপু মনি, রেজাউল করিম, শামীম ওসমান ও হাবিবে মিল্লাতের পরিত্যক্ত বাড়িতে আগুন",
+      "url": "https://www.prothomalo.com/bangladesh/district/0mckf2jpm7",
+      "published": "2026-11-18T18:01:56+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/fy1tysso/Untitled.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/0mckf2jpm7"
+        }
+      ],
+      "id": "23ca763ddd63",
+      "rank": 32
+    },
+    {
+      "title": "নড়াইলে বিএনপির শোভাযাত্রায় কার্যক্রম নিষিদ্ধ আওয়ামী লীগের হামলা, নিহত ২",
+      "url": "https://www.prothomalo.com/bangladesh/district/o7q13sktek",
+      "published": "2026-11-18T18:01:11+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-18/uyldy5zh/Untitled-1.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/bangladesh/district/o7q13sktek"
+        }
+      ],
+      "id": "baca3ce3da9a",
+      "rank": 33
+    },
+    {
+      "title": "মোহাম্মদপুরে গাঁজাসহ কার্যক্রম নিষিদ্ধ আওয়ামী লীগ নেতা গ্রেফতার",
+      "url": "https://www.jagonews24.com/national/news/1181141",
+      "published": "2026-11-18T17:54:07+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181141"
+        }
+      ],
+      "id": "7b0cbd341da4",
+      "rank": 34
+    },
+    {
+      "title": "কুবির বাস লক্ষ্য করে জ্বলন্ত টায়ার নিক্ষেপ, বড় দুর্ঘটনা থেকে রক্ষা",
+      "url": "https://www.jagonews24.com/country/news/1181140",
+      "published": "2026-11-18T17:20:04+00:00",
+      "image": "",
+      "category": "অপরাধ",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181140"
+        }
+      ],
+      "id": "09753b5c1ab4",
+      "rank": 35
+    },
+    {
+      "title": "নড়াইলে বিএনপির মিছিলে কার্যক্রম নিষিদ্ধ আ’লীগের হামলা, দুই নেতা নিহত",
+      "url": "https://www.jagonews24.com/country/news/1181139",
+      "published": "2026-11-18T16:59:47+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181139"
+        }
+      ],
+      "id": "474441bf89eb",
+      "rank": 36
+    },
+    {
+      "title": "মহাসড়কে নিষিদ্ধ ছাত্রলীগের ককটেল বিস্ফোরণ-বাস ভাঙচুর, আটক ২",
+      "url": "https://www.jagonews24.com/country/news/1181138",
+      "published": "2026-11-18T16:36:40+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181138"
+        }
+      ],
+      "id": "1f3317a885c5",
+      "rank": 37
+    },
+    {
+      "title": "বৃহস্পতিবার লালমনিরহাট যাচ্ছেন প্রধানমন্ত্রী",
+      "url": "https://www.jagonews24.com/national/news/1181137",
+      "published": "2026-11-18T16:18:12+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181137"
+        }
+      ],
+      "id": "8ac8a1a8cc7e",
+      "rank": 38
+    },
+    {
+      "title": "বেগম জিয়ার উপহার দেওয়া ইবির সেই বাসের নিলাম বাতিল",
+      "url": "https://www.jagonews24.com/country/news/1181136",
+      "published": "2026-11-18T16:17:18+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181136"
+        }
+      ],
+      "id": "ac396ad1442b",
+      "rank": 39
+    },
+    {
+      "title": "গোলাপি পূর্ণিমায় নয়ন ভরে যায়!",
+      "url": "https://www.jagonews24.com/entertainment/news/1181135",
+      "published": "2026-11-18T16:11:12+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/entertainment/news/1181135"
+        }
+      ],
+      "id": "6ceef2fa43ec",
+      "rank": 40
+    },
+    {
+      "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ১৮ নভেম্বর ২০২৬",
+      "url": "https://www.jagonews24.com/international/news/1181134",
+      "published": "2026-11-18T16:02:29+00:00",
+      "image": "",
+      "category": "আন্তর্জাতিক",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/international/news/1181134"
+        }
+      ],
+      "id": "9f2f8e946ad5",
+      "rank": 41
+    },
+    {
+      "title": "কারাগার থেকে মুক্তি পেলেন সেই সিফাত আব্দুল্লাহ",
+      "url": "https://www.jagonews24.com/country/news/1181133",
+      "published": "2026-11-18T16:00:50+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181133"
+        }
+      ],
+      "id": "5763a522c0a8",
+      "rank": 42
+    },
+    {
+      "title": "ব্যবসা-বাণিজ্য ও শ্রম সহযোগিতা বাড়াতে চায় বাংলাদেশ-জর্ডান",
+      "url": "https://www.jagonews24.com/national/news/1181132",
+      "published": "2026-11-18T15:59:20+00:00",
+      "image": "",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181132"
+        }
+      ],
+      "id": "264b40c98958",
+      "rank": 43
+    },
+    {
+      "title": "ভালোবেসে বিয়ে, স্ত্রী তালাক দেওয়ায় দুধ দিয়ে গোসল করলেন যুবক",
+      "url": "https://www.jagonews24.com/country/news/1181131",
+      "published": "2026-11-18T15:57:09+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181131"
+        }
+      ],
+      "id": "d8b4e4cc6851",
+      "rank": 44
+    },
+    {
+      "title": "রবীন্দ্র বিশ্ববিদ্যালয়ে ছাত্রদল-শিক্ষার্থী সংঘর্ষ, আহত ৬",
+      "url": "https://www.jagonews24.com/country/news/1181130",
+      "published": "2026-11-18T15:54:18+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181130"
+        }
+      ],
+      "id": "e51ff86dd744",
+      "rank": 45
+    },
+    {
+      "title": "শাহরাস্তিতে অবৈধ দুই ইটভাটায় জরিমানা, বিদ্যুৎ সংযোগ বিচ্ছিন্ন",
+      "url": "https://www.jagonews24.com/country/news/1181129",
+      "published": "2026-11-18T15:51:48+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181129"
+        }
+      ],
+      "id": "f1bf9fc9ac48",
+      "rank": 46
+    },
+    {
+      "title": "খুলনায় আদালতের বারান্দায় ককটেল নিক্ষেপ",
+      "url": "https://www.jagonews24.com/country/news/1181128",
+      "published": "2026-11-18T15:51:44+00:00",
+      "image": "",
+      "category": "অপরাধ",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181128"
+        }
+      ],
+      "id": "716c44d42ab4",
+      "rank": 47
+    },
+    {
+      "title": "পশ্চিমবঙ্গকে উত্তরপ্রদেশ-গুজরাট বানাবো: দিলীপ ঘোষ",
+      "url": "https://www.jagonews24.com/international/news/1181127",
+      "published": "2026-11-18T15:51:06+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/international/news/1181127"
+        }
+      ],
+      "id": "949dab4b430b",
+      "rank": 48
+    },
+    {
+      "title": "গোপালগঞ্জে সহিংসতার জেরে পদ্মা সেতু হয়ে খুলনার বাস বন্ধ",
+      "url": "https://www.jagonews24.com/country/news/1181126",
+      "published": "2026-11-18T15:49:07+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181126"
+        }
+      ],
+      "id": "01c7eac08450",
+      "rank": 49
+    },
+    {
+      "title": "সাবেক এমপি মিল্লাতের বাড়িতে ফের আগুন",
+      "url": "https://www.jagonews24.com/country/news/1181125",
+      "published": "2026-11-18T15:46:13+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181125"
+        }
+      ],
+      "id": "8d4c11aab468",
+      "rank": 50
+    },
+    {
+      "title": "ফ্যাসিবাদ পুনঃপ্রতিষ্ঠার সব ষড়যন্ত্র রুখে দিতে হবে: শাহজাহান",
+      "url": "https://www.jagonews24.com/politics/news/1181124",
+      "published": "2026-11-18T15:46:03+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/politics/news/1181124"
+        }
+      ],
+      "id": "9cff4546d2e9",
+      "rank": 51
+    },
+    {
+      "title": "আগ্রাবাদ ‘বালুর মাঠ’ শতভাগ দখলমুক্ত করলো সিডিএ",
+      "url": "https://www.jagonews24.com/national/news/1181123",
+      "published": "2026-11-18T15:45:37+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181123"
+        }
+      ],
+      "id": "6ddd5e421a73",
+      "rank": 52
+    },
+    {
+      "title": "বাবুবাজারে অনুমোদনহীন ওষুধ বিক্রি, পাঁচ ফার্মেসিকে ৪ লাখ টাকা জরিমানা",
+      "url": "https://www.jagonews24.com/national/news/1181122",
+      "published": "2026-11-18T15:41:39+00:00",
+      "image": "",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181122"
+        }
+      ],
+      "id": "b494ef5ce0d4",
+      "rank": 53
+    },
+    {
+      "title": "নাশকতার পরিকল্পনার অভিযোগে যুবলীগের সাবেক নেতাসহ তিনজন কারাগারে",
+      "url": "https://www.jagonews24.com/national/news/1181121",
+      "published": "2026-11-18T15:31:27+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181121"
+        }
+      ],
+      "id": "49a6e93b3af5",
+      "rank": 54
+    },
+    {
+      "title": "ভারতের সঙ্গে বাংলাদেশের সোনার দামের পার্থক্য কত",
+      "url": "https://www.jagonews24.com/economy/news/1181120",
+      "published": "2026-11-18T15:31:20+00:00",
+      "image": "",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/economy/news/1181120"
+        }
+      ],
+      "id": "64e25a1e7edb",
+      "rank": 55
+    },
+    {
+      "title": "আ’লীগের নৈরাজ্য প্রতিরোধে বিএনপির নেতাকর্মীদের পাহারা দেওয়ার আহ্বান",
+      "url": "https://www.jagonews24.com/country/news/1181119",
+      "published": "2026-11-18T15:30:53+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181119"
+        }
+      ],
+      "id": "a4ff50ec5756",
+      "rank": 56
+    },
+    {
+      "title": "১১ দিনে ৭০ স্থানে ককটেল বিস্ফোরণ, ৫৭ গাড়িতে আগুন",
+      "url": "https://www.jagonews24.com/national/news/1181118",
+      "published": "2026-11-18T15:30:29+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181118"
+        }
+      ],
+      "id": "bfe54fef918c",
+      "rank": 57
+    },
+    {
+      "title": "গোপালগঞ্জের এমপি বাবরের ক্লিনিকে আগুন",
+      "url": "https://www.jagonews24.com/country/news/1181117",
+      "published": "2026-11-18T15:27:49+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181117"
+        }
+      ],
+      "id": "c8f6d0aa92bc",
+      "rank": 58
+    },
+    {
+      "title": "ইনিংস হারের শঙ্কা মাথায় নিয়ে চতুর্থ দিন শেষ বাংলাদেশের",
+      "url": "https://www.jagonews24.com/sports/cricket/1181116",
+      "published": "2026-11-18T15:24:31+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/sports/cricket/1181116"
+        }
+      ],
+      "id": "f83bb78b2529",
+      "rank": 59
+    },
+    {
+      "title": "রূপপুরের বিদ্যুৎ বাংলাদেশের জ্বালানি আমদানিনির্ভরতা কমাবে",
+      "url": "https://www.jagonews24.com/country/news/1181115",
+      "published": "2026-11-18T15:22:39+00:00",
+      "image": "",
+      "category": "অর্থনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181115"
+        }
+      ],
+      "id": "9c3d0978c2cc",
+      "rank": 60
+    },
+    {
+      "title": "‘আমি আইনজীবী, বোমা মারব কেন?’",
+      "url": "https://www.jagonews24.com/law-courts/news/1181114",
+      "published": "2026-11-18T15:22:04+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/law-courts/news/1181114"
+        }
+      ],
+      "id": "bffa6b36069f",
+      "rank": 61
+    },
+    {
+      "title": "খেলনা বিক্রির আড়ালে ইয়াবা পাচার, সাড়ে ৯ হাজার পিসসহ গ্রেফতার ২",
+      "url": "https://www.jagonews24.com/national/news/1181113",
+      "published": "2026-11-18T15:20:47+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181113"
+        }
+      ],
+      "id": "850f7acf7e04",
+      "rank": 62
+    },
+    {
+      "title": "হাম উপসর্গে ২৪ ঘণ্টায় আরও ৬ জনের মৃত্যু",
+      "url": "https://www.jagonews24.com/health/news/1181112",
+      "published": "2026-11-18T15:20:18+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/health/news/1181112"
+        }
+      ],
+      "id": "7fbb447ea38e",
+      "rank": 63
+    },
+    {
+      "title": "মানিকগঞ্জ টিটিসি থেকে কম্পিউটার-ল্যাপটপ চুরি",
+      "url": "https://www.jagonews24.com/country/news/1181111",
+      "published": "2026-11-18T15:19:46+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181111"
+        }
+      ],
+      "id": "9dd9b394de24",
+      "rank": 64
+    },
+    {
+      "title": "ঢাকায় দুই দিনে ১২ পেট্রোল পাম্পে অভিযান, পরিমাপে অনিয়মে ৩ ইউনিট বন্ধ",
+      "url": "https://www.jagonews24.com/national/news/1181110",
+      "published": "2026-11-18T15:18:58+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/national/news/1181110"
+        }
+      ],
+      "id": "88bf8b481f92",
+      "rank": 65
+    },
+    {
+      "title": "ফুটবলে সাফল্যের কোনো শর্টকাট রাস্তা নেই, ফিরতে হবে তৃণমূলে",
+      "url": "https://www.jagonews24.com/sports/football/1181109",
+      "published": "2026-11-18T15:17:33+00:00",
+      "image": "",
+      "category": "খেলা",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/sports/football/1181109"
+        }
+      ],
+      "id": "4ca7ce647041",
+      "rank": 66
+    },
+    {
+      "title": "নিষিদ্ধ ছাত্রলীগ নেতাকে বাড়িতে না পেয়ে বাবাকে গ্রেফতার",
+      "url": "https://www.jagonews24.com/country/news/1181108",
+      "published": "2026-11-18T15:17:02+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1181108"
+        }
+      ],
+      "id": "bd92720d66d6",
+      "rank": 67
+    },
+    {
+      "title": "বলিউডের নাচ-গানে মুগ্ধ প্রিন্স উইলিয়াম, রেখে গেলেন যে ইচ্ছা",
+      "url": "https://www.jagonews24.com/entertainment/bollywood/1181107",
+      "published": "2026-11-18T15:14:45+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/entertainment/bollywood/1181107"
+        }
+      ],
+      "id": "65305eba5345",
+      "rank": 68
+    },
+    {
+      "title": "বিধ্বস্ত টুঙ্গিপাড়া আর কাশিয়ানী, থমথমে গোপালগঞ্জে আরও বিক্ষোভের প্রস্তুতি",
+      "url": "https://www.bbc.com/bengali/articles/cqzjr30yvk48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T15:06:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/db9a/live/91071460-e35d-11f1-99b6-a35a62fa4264.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cqzjr30yvk48o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "66f2cbb502fa",
+      "rank": 69
+    },
+    {
+      "title": "স্ত্রীকে যৌন সম্পর্কে বাধ্য করা ভারতে অপরাধ? সিদ্ধান্ত নেবে সুপ্রিম কোর্ট",
+      "url": "https://www.bbc.com/bengali/articles/c39w9510gnj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T13:34:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5526/live/4b716740-e32e-11f1-a094-5fdc692f3e33.jpg",
+      "category": "আন্তর্জাতিক",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/c39w9510gnj4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "687fc2a7a1ce",
+      "rank": 70
+    },
+    {
+      "title": "ঢাকাসহ বিভিন্ন স্থানে ককটেল হামলা, অগ্নিসংযোগ – পরিস্থিতি সামলাতে কী করছে পুলিশ?",
+      "url": "https://www.bbc.com/bengali/articles/cke89j2dprd4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T10:54:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1ee/live/748778d0-e320-11f1-baab-4b3b35d174b7.jpg",
+      "category": "অপরাধ",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cke89j2dprd4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "f0db2df5a5d4",
+      "rank": 71
+    },
+    {
+      "title": "ভ্রূণের চিকিৎসার জন্য গর্ভাবস্থাতেই যেসব অস্ত্রোপচার করা হয়",
+      "url": "https://www.bbc.com/bengali/articles/cmx20pv2jd13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T08:53:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b81c/live/3b0df880-e26d-11f1-a094-5fdc692f3e33.jpg",
+      "category": "স্বাস্থ্য",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cmx20pv2jd13o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "242b936f456a",
+      "rank": 72
+    },
+    {
+      "title": "চীনে পৌঁছেছেন পুতিন, সামনে তিন পরাশক্তির ঐতিহাসিক বৈঠক",
+      "url": "https://www.bbc.com/bengali/articles/cqr7ge23l9njo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T03:30:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5e4b/live/504bee00-e2fe-11f1-99b6-a35a62fa4264.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cqr7ge23l9njo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "10ded1a20ccf",
+      "rank": 73
+    },
+    {
+      "title": "পত্রিকা: 'নাশকতা মোকাবিলা: সাংগঠনিকভাবে সর্বশক্তি নিয়োগ করবে বিএনপি'",
+      "url": "https://www.bbc.com/bengali/articles/cr2kl55w0dd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T03:09:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbd8/live/b3584be0-e2f1-11f1-a6bc-5d46a55d0bef.jpg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cr2kl55w0dd5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "efe9dc37d8ec",
+      "rank": 74
+    },
+    {
+      "title": "ট্রাম্প, পুতিন ও শি-র বৈঠক ইউরোপকে কেন উদ্বিগ্ন করছে?",
+      "url": "https://www.bbc.com/bengali/articles/cmd91x19007lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18T01:56:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0fc/live/b2607f00-e29c-11f1-99a1-253766e7ad8b.png",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "BBC বাংলা",
+          "url": "https://www.bbc.com/bengali/articles/cmd91x19007lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "id": "57ba6559e920",
+      "rank": 75
+    }
+  ],
+  "feed_status": [
+    {
+      "source": "প্রথম আলো",
+      "ok": true,
+      "items": 16
+    },
+    {
+      "source": "The Daily Star",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "bdnews24.com",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "বাংলানিউজ২৪",
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://www.banglanews24.com/rss/rss.xml"
+    },
+    {
+      "source": "যুগান্তর",
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://www.jugantor.com/feed/rss.xml"
+    },
+    {
+      "source": "জাগো নিউজ ২৪",
+      "ok": true,
+      "items": 50
+    },
+    {
+      "source": "কালের কণ্ঠ",
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://www.kalerkantho.com/rss.xml"
+    },
+    {
+      "source": "Bangla Tribune",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: https://www.banglatribune.com/feed"
+    },
+    {
+      "source": "Dhaka Tribune",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: https://www.dhakatribune.com/feed"
+    },
+    {
+      "source": "The Business Standard",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "source": "The Financial Express",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: https://thefinancialexpress.com.bd/rss"
+    },
+    {
+      "source": "BBC বাংলা",
+      "ok": true,
+      "items": 9
+    }
+  ]
 }
