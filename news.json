@@ -1,14 +1,14 @@
 {
   "edition_date": "2026-11-25",
-  "updated_at": "2026-11-25T03:46:18.022958+06:00",
+  "updated_at": "2026-11-25T06:49:55.743605+06:00",
   "timezone": "Asia/Dhaka",
-  "count": 76,
+  "count": 63,
   "summary_mode": "Original headlines and publisher links; no AI summaries",
   "stories": [
     {
       "title": "২২ হাজার টাকা মজুরির দাবির বিপরীতে ১৫ হাজার ৭০০ টাকা প্রস্তাব করেছেন মালিকরা",
       "url": "https://www.bbc.co.uk/bengali/live/cq8e06z7l7l9t?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T21:46:12.969930+00:00",
+      "published": "2026-11-25T00:49:52.127719+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5600/live/6404dfb0-e7f9-11f1-ab60-79086b6495b8.jpg",
       "category": "জাতীয়",
       "sources": [
@@ -23,7 +23,7 @@
     {
       "title": "জেনসেন হুয়াংকে আবারও সিইও পদে পুনর্বহাল করলো এনভিডিয়া",
       "url": "https://www.bbc.co.uk/bengali/live/c39w9g5994x4t?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24T21:46:12.969930+00:00",
+      "published": "2026-11-25T00:49:52.127719+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb2/live/a07319d0-e74a-11f1-99a1-253766e7ad8b.png",
       "category": "জাতীয়",
       "sources": [
@@ -34,6 +34,171 @@
       ],
       "id": "57b79883059f",
       "rank": 2
+    },
+    {
+      "title": "আওয়ামী লীগ নেতাকে ডিম-কফি খাইয়ে পুলিশে দিলেন যুবদল নেতা নয়ন",
+      "url": "https://www.jagonews24.com/politics/news/1183372",
+      "published": "2026-11-25T00:46:44+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/politics/news/1183372"
+        }
+      ],
+      "id": "fc45245f5592",
+      "rank": 3
+    },
+    {
+      "title": "৩৫ বছরের শিক্ষকতা শেষে ঘোড়ার গাড়িতে বাড়ি ফিরলেন বিপ্লব সরকার",
+      "url": "https://www.jagonews24.com/education/news/1183371",
+      "published": "2026-11-25T00:39:57+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/education/news/1183371"
+        }
+      ],
+      "id": "a490d7c75c0a",
+      "rank": 4
+    },
+    {
+      "title": "লেজার লাইট কিনে দেওয়ার লোভ দেখিয়ে শিশু অপহরণ, কারাগারে ইমাম",
+      "url": "https://www.jagonews24.com/country/news/1183370",
+      "published": "2026-11-25T00:34:49+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1183370"
+        }
+      ],
+      "id": "142aa994ce12",
+      "rank": 5
+    },
+    {
+      "title": "হাদিসের বিশেষ সনদ সম্মাননা পেলেন মালয়েশিয়ার প্রধানমন্ত্রী আনোয়ার",
+      "url": "https://www.jagonews24.com/probash/news/1183369",
+      "published": "2026-11-25T00:28:53+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/probash/news/1183369"
+        }
+      ],
+      "id": "cc15c3653ec9",
+      "rank": 6
+    },
+    {
+      "title": "জুলাই যোদ্ধাকে হত্যার ঘটনায় স্বেচ্ছাসেবক দলের নেতাসহ ৪ জনের নামে মামলা",
+      "url": "https://www.jagonews24.com/country/news/1183368",
+      "published": "2026-11-25T00:25:22+00:00",
+      "image": "",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1183368"
+        }
+      ],
+      "id": "a760d97c7587",
+      "rank": 7
+    },
+    {
+      "title": "কলকাতা ও শিলিগুড়িতে নতুন ভিসা আবেদনকেন্দ্র চালু করছে বাংলাদেশ",
+      "url": "https://www.jagonews24.com/international/news/1183367",
+      "published": "2026-11-25T00:19:51+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/international/news/1183367"
+        }
+      ],
+      "id": "abcb980f649c",
+      "rank": 8
+    },
+    {
+      "title": "নেতানিয়াহুকে এড়িয়ে সরকার গঠনে দুই বিরোধী দলের চুক্তি, সমীকরণ কী দাঁড়াল",
+      "url": "https://www.prothomalo.com/world/middle-east/rxrxl8s938",
+      "published": "2026-11-25T00:04:55+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-08/ghpugdpd/Eisenkot.avif",
+      "category": "রাজনীতি",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/world/middle-east/rxrxl8s938"
+        }
+      ],
+      "id": "a7a2befdef0f",
+      "rank": 9
+    },
+    {
+      "title": "মালয়েশিয়ায় শরণার্থীদের কাজের সুযোগ দেওয়ার আহ্বান",
+      "url": "https://www.jagonews24.com/probash/news/1183366",
+      "published": "2026-11-24T23:42:18+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/probash/news/1183366"
+        }
+      ],
+      "id": "d9efd1fc3475",
+      "rank": 10
+    },
+    {
+      "title": "আইনশৃঙ্খলা সভায় মাদকবিরোধী বক্তব্য, প্যানেল চেয়ারম্যানের ওপর হামলা",
+      "url": "https://www.jagonews24.com/country/news/1183365",
+      "published": "2026-11-24T23:13:26+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1183365"
+        }
+      ],
+      "id": "8de7291f2fd7",
+      "rank": 11
+    },
+    {
+      "title": "বেলিংহামের জাদুতে রিয়ালের ৫ গোলের উৎসব",
+      "url": "https://www.prothomalo.com/sports/football/kgouhxdl7w",
+      "published": "2026-11-24T22:38:57+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/i8epgxsp/gettyimages-2306714692.webp",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/sports/football/kgouhxdl7w"
+        }
+      ],
+      "id": "b7475d7c9b5f",
+      "rank": 12
+    },
+    {
+      "title": "আনন্দ-উল্লাসে চলছে মণিপুরীদের রাস উৎসব",
+      "url": "https://www.jagonews24.com/country/news/1183364",
+      "published": "2026-11-24T21:56:05+00:00",
+      "image": "",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "জাগো নিউজ ২৪",
+          "url": "https://www.jagonews24.com/country/news/1183364"
+        }
+      ],
+      "id": "6eaf22631196",
+      "rank": 13
     },
     {
       "title": "ডিভাইস আসক্তি কমাতে সবাইকে বেশি বেশি গল্প ও উপন্যাসের বই পড়তে হবে",
@@ -48,7 +213,22 @@
         }
       ],
       "id": "f8133c2bb78c",
-      "rank": 3
+      "rank": 14
+    },
+    {
+      "title": "বোর্ডে ভোটাভুটি, ন্যূনতম ১৭ হাজার টাকা মজুরি নির্ধারণ",
+      "url": "https://www.prothomalo.com/business/j9m0c3h5fm",
+      "published": "2026-11-24T21:33:23+00:00",
+      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/3oi5h3wm/WhatsApp-Image-2026-11-25-at-2.33.37-AM.jpeg",
+      "category": "জাতীয়",
+      "sources": [
+        {
+          "name": "প্রথম আলো",
+          "url": "https://www.prothomalo.com/business/j9m0c3h5fm"
+        }
+      ],
+      "id": "81dac7a4689c",
+      "rank": 15
     },
     {
       "title": "প্রধানমন্ত্রীর এক সিদ্ধান্ত অভিভাবকদের মনের আশা পূরণ করেছে: এমপি ফখরুল",
@@ -63,7 +243,7 @@
         }
       ],
       "id": "d94433438832",
-      "rank": 4
+      "rank": 16
     },
     {
       "title": "দেশের প্রতি আটজনে একজন ডায়াবেটিসে আক্রান্ত",
@@ -78,7 +258,7 @@
         }
       ],
       "id": "75a7db930a9b",
-      "rank": 5
+      "rank": 17
     },
     {
       "title": "শান্তি রক্ষায় নিজেদেরই পাহারা বসাতে হবে, পুলিশের ভরসায় থাকলে হবে না",
@@ -93,7 +273,7 @@
         }
       ],
       "id": "ed631a8a3700",
-      "rank": 6
+      "rank": 18
     },
     {
       "title": "আমরা সব সংস্কৃতি জাতির সামনে তুলে ধরতে চাই: সংস্কৃতিমন্ত্রী",
@@ -108,7 +288,7 @@
         }
       ],
       "id": "9c8f935fa256",
-      "rank": 7
+      "rank": 19
     },
     {
       "title": "নির্মাণে অনিয়ম, ১০ ভবন সিলগালা ও ৪৬ লাখ টাকা জরিমানা",
@@ -123,37 +303,7 @@
         }
       ],
       "id": "0a6f0d8779d6",
-      "rank": 8
-    },
-    {
-      "title": "গোপালগঞ্জে ট্রেন-থানা শিগগিরই চালু হচ্ছে না, স্থগিত থাকবে বিভিন্ন সরকারি বরাদ্দ",
-      "url": "https://www.prothomalo.com/bangladesh/8xj374ke4l",
-      "published": "2026-11-24T20:29:56+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-15/sz5r26hd/Conflict-2.png",
-      "category": "রাজনীতি",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/8xj374ke4l"
-        }
-      ],
-      "id": "a0cb896205b6",
-      "rank": 9
-    },
-    {
-      "title": "সাইবার আইন সংশোধনের প্রস্তাবে মতপ্রকাশের স্বাধীনতা সীমিত হওয়ার ঝুঁকি: অ্যামনেস্টি ইন্টারন্যাশনাল",
-      "url": "https://www.prothomalo.com/bangladesh/zni0vi4og0",
-      "published": "2026-11-24T20:23:44+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2025-04-08/n8euzrfl/amnesty.jpg",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/zni0vi4og0"
-        }
-      ],
-      "id": "e26c5e8b14ba",
-      "rank": 10
+      "rank": 20
     },
     {
       "title": "বস্তিবাসীদের জন্য ৫৩৩ ফ্ল্যাট নির্মাণের জট খুললো",
@@ -168,7 +318,7 @@
         }
       ],
       "id": "f36c7669450a",
-      "rank": 11
+      "rank": 21
     },
     {
       "title": "ফরিদপুরে বাসের ধাক্কায় কলেজছাত্র নিহত",
@@ -183,7 +333,7 @@
         }
       ],
       "id": "d877a3a6c6a8",
-      "rank": 12
+      "rank": 22
     },
     {
       "title": "বাংলাদেশে যা ঘটেছে, তা হিটলারের নৃশংসতার চেয়ে কোনো অংশে কম?",
@@ -198,10 +348,10 @@
         }
       ],
       "id": "49ea698e76fe",
-      "rank": 13
+      "rank": 23
     },
     {
-      "title": "ফজর থেকে সূর্যোদয়: যেমন কাটত নবীজির সকালগুলো",
+      "title": "ফজর থেকে সূর্যোদয়: যেভাবে কাটত নবীজির সকালগুলো",
       "url": "https://www.prothomalo.com/religion/islam/ihemfm00j6",
       "published": "2026-11-24T20:00:00+00:00",
       "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/lup8cwkx/pexels-tibvia-32367908-1.jpeg",
@@ -212,23 +362,8 @@
           "url": "https://www.prothomalo.com/religion/islam/ihemfm00j6"
         }
       ],
-      "id": "f24e680c1154",
-      "rank": 14
-    },
-    {
-      "title": "খিলগাঁও থানায় ককটেল বিস্ফোরণ, সিসি ক্যামেরায় দেখে একজনকে আটক",
-      "url": "https://www.prothomalo.com/bangladesh/crime/io2yhdcnvn",
-      "published": "2026-11-24T19:50:56+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/jfm55wtm/Capture.PNG",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/io2yhdcnvn"
-        }
-      ],
-      "id": "95af2f1620f4",
-      "rank": 15
+      "id": "027608b2e2c4",
+      "rank": 24
     },
     {
       "title": "উন্নয়ন প্রকল্প অনুমোদন প্রক্রিয়া সহজ করতে সচিব কমিটি গঠন",
@@ -243,7 +378,7 @@
         }
       ],
       "id": "d6be6e255e4e",
-      "rank": 16
+      "rank": 25
     },
     {
       "title": "এআই-প্রযুক্তিসেবা সম্প্রসারণে অলীন ও ব্যাটারি লো ইন্টারেক্টিভের সমঝোতা",
@@ -258,7 +393,7 @@
         }
       ],
       "id": "c1f259dca59e",
-      "rank": 17
+      "rank": 26
     },
     {
       "title": "তাজরীন ফ্যাশনস অগ্নিকাণ্ডের ১৪ বছর, বিচার ও ক্ষতিপূরণ দাবি",
@@ -273,37 +408,7 @@
         }
       ],
       "id": "3e20e9c59cfc",
-      "rank": 18
-    },
-    {
-      "title": "হুয়াং পদে ফেরার আগে এনভিডিয়ার পর্ষদকে আরও গোপন সম্পর্কের কথা জানান",
-      "url": "https://www.prothomalo.com/world/usa/f4w3g8k5sv",
-      "published": "2026-11-24T19:19:53+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/1e5x7tqm/Jensen-Huang.jpg",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/usa/f4w3g8k5sv"
-        }
-      ],
-      "id": "8fa04cf5458a",
-      "rank": 19
-    },
-    {
-      "title": "রোহিঙ্গা জেনোসাইড: যুক্তরাজ্যের আহ্বানে বুধবার জাতিসংঘের নিরাপত্তা পরিষদের বৈঠক",
-      "url": "https://www.prothomalo.com/bangladesh/6q28v931y2",
-      "published": "2026-11-24T19:14:45+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/sr40euw2/5.avif",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/6q28v931y2"
-        }
-      ],
-      "id": "bdbc0f166f4e",
-      "rank": 20
+      "rank": 27
     },
     {
       "title": "নিহতের গুজবে বিক্ষোভ, থানায় গিয়ে নারী শ্রমিক জানালেন তিনি সুস্থ আছেন",
@@ -318,52 +423,7 @@
         }
       ],
       "id": "e5eec87fb54f",
-      "rank": 21
-    },
-    {
-      "title": "সৌদির রিয়াদ টাওয়ারে হুতিদের হামলায় ১১ জন আহত",
-      "url": "https://www.prothomalo.com/world/middle-east/0mvfkqopth",
-      "published": "2026-11-24T18:55:39+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/1rcu62tp/2026-11-19T171312Z1231127931RC24ROA9IAPZRTRMADP3IRAN-CRISIS-SAUDI-YEMEN-1795540698.webp",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/middle-east/0mvfkqopth"
-        }
-      ],
-      "id": "1095038020ef",
-      "rank": 22
-    },
-    {
-      "title": "মোদির শাসনে ভারতের গণতান্ত্রিক প্রতিষ্ঠান দুর্বল হয়েছে: এইচআরডব্লিউ",
-      "url": "https://www.prothomalo.com/world/india/ydgre25w77",
-      "published": "2026-11-24T18:47:47+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/iziyv7lk/2.avif",
-      "category": "আন্তর্জাতিক",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/india/ydgre25w77"
-        }
-      ],
-      "id": "7068e1c65a24",
-      "rank": 23
-    },
-    {
-      "title": "সেদ্ধ ডিম, কফি খাইয়ে আওয়ামী লীগ নেতাকে পুলিশে দিলেন যুবদল নেতা নয়ন",
-      "url": "https://www.prothomalo.com/bangladesh/crime/goovjnz0j5",
-      "published": "2026-11-24T18:42:48+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/1ccsqvps/WhatsApp-Image-2026-11-25-at-12.40.15-AM.jpeg",
-      "category": "রাজনীতি",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/crime/goovjnz0j5"
-        }
-      ],
-      "id": "70a82d439735",
-      "rank": 24
+      "rank": 28
     },
     {
       "title": "আওয়ামী লীগ কর্মীরা ভারত থেকে দেশে সন্ত্রাসী কর্মকাণ্ড পরিচালনা করছে",
@@ -378,37 +438,7 @@
         }
       ],
       "id": "3b089aba2769",
-      "rank": 25
-    },
-    {
-      "title": "‘এই তো আমি ফিরে আসছি’, ১৮ বছর পর নিজ বাড়িতে বাদল ফরাজি",
-      "url": "https://www.prothomalo.com/bangladesh/district/j8xhs1e9y8",
-      "published": "2026-11-24T18:25:45+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/o2gmndfc/khulna-badal-1.jpeg",
-      "category": "রাজনীতি",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/j8xhs1e9y8"
-        }
-      ],
-      "id": "0e23e8caa259",
-      "rank": 26
-    },
-    {
-      "title": "প্রতিযোগীদের পোশাক খুলে পরীক্ষা! মিস ইউনিভার্সের যে বিতর্ক ঝড় তুলেছিল",
-      "url": "https://www.prothomalo.com/entertainment/w0bf17qugk",
-      "published": "2026-11-24T18:19:46+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/xqt6lg2g/1306943253656733092345051228897382147622453553589751n.jpg.webp",
-      "category": "শিক্ষা",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/entertainment/w0bf17qugk"
-        }
-      ],
-      "id": "a185526bd98a",
-      "rank": 27
+      "rank": 29
     },
     {
       "title": "বিস্ফোরক আইনের মামলায় রাবি ছাত্রলীগের সাবেক নেতা রবিউল কারাগারে",
@@ -423,22 +453,7 @@
         }
       ],
       "id": "fcc9a589d18c",
-      "rank": 28
-    },
-    {
-      "title": "পলাতক রাজনৈতিক দলের নেতা–কর্মীদের অনুপ্রবেশ ঠেকাতে হিলি সীমান্তে বিজিবির সতর্কতা",
-      "url": "https://www.prothomalo.com/video/bangladesh/gncvflao09",
-      "published": "2026-11-24T18:06:08+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/d2l8vkar/WEB.jpg",
-      "category": "রাজনীতি",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/video/bangladesh/gncvflao09"
-        }
-      ],
-      "id": "ea97a505e458",
-      "rank": 29
+      "rank": 30
     },
     {
       "title": "মডেল সিয়ামের মৃত্যু, ৩ সহকর্মীর তিনদিনের রিমান্ড",
@@ -453,21 +468,6 @@
         }
       ],
       "id": "24656bc25076",
-      "rank": 30
-    },
-    {
-      "title": "চীনের মহাকাশ স্টেশনে প্রথম বিদেশি হিসেবে যাচ্ছেন পাকিস্তানি পাইলট",
-      "url": "https://www.prothomalo.com/world/asia/ahnv2o8cma",
-      "published": "2026-11-24T17:58:04+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/zy45jv1d/pilot.jpg",
-      "category": "আন্তর্জাতিক",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/world/asia/ahnv2o8cma"
-        }
-      ],
-      "id": "6e2c5cd35c23",
       "rank": 31
     },
     {
@@ -486,36 +486,6 @@
       "rank": 32
     },
     {
-      "title": "আইপিএল নিলামে থাকছেন না মোস্তাফিজ",
-      "url": "https://www.prothomalo.com/sports/cricket/5uf1zlvnsf",
-      "published": "2026-11-24T17:41:42+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2024-04/2bf4ea4c-9a00-4a04-8d42-9dd7cd7b13d1/435466591_990914582396456_953070416642495103_n.jpg",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/sports/cricket/5uf1zlvnsf"
-        }
-      ],
-      "id": "93e47d6bb936",
-      "rank": 33
-    },
-    {
-      "title": "তাঁর সঙ্গে কোনো আলোচনা হবে না, আলোচনা হবে ভারতের সঙ্গে",
-      "url": "https://www.prothomalo.com/bangladesh/6zu0a2x1vk",
-      "published": "2026-11-24T17:40:44+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/q2jkonmg/Zahed-Ur-Rahman-1.jpeg",
-      "category": "আন্তর্জাতিক",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/6zu0a2x1vk"
-        }
-      ],
-      "id": "99da7af837ca",
-      "rank": 34
-    },
-    {
       "title": "উপজাত ‘ন্যাফথা’ রাখার জায়গা নেই, বন্ধের ঝুঁকিতে ইস্টার্ন রিফাইনারি",
       "url": "https://www.jagonews24.com/national/news/1183347",
       "published": "2026-11-24T17:40:22+00:00",
@@ -528,22 +498,7 @@
         }
       ],
       "id": "1bc63c4e3907",
-      "rank": 35
-    },
-    {
-      "title": "মাঝারি ও বড় শিল্প চলছে ৬৬% সক্ষমতায়",
-      "url": "https://www.prothomalo.com/business/industry/9td27y1wth",
-      "published": "2026-11-24T17:30:00+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/nwrjaicd/Business.jpg",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/business/industry/9td27y1wth"
-        }
-      ],
-      "id": "35dfe77324f4",
-      "rank": 36
+      "rank": 33
     },
     {
       "title": "পুরস্কার বিতরণী অনুষ্ঠানে দুর্ঘটনার শিকার চিত্রনায়িকা মিষ্টি জান্নাত",
@@ -558,22 +513,7 @@
         }
       ],
       "id": "f2abeb720ea0",
-      "rank": 37
-    },
-    {
-      "title": "ফলকে স্ত্রীরও নাম, সরকারি স্থাপনা উদ্বোধন করলেন না বিভাগীয় কমিশনার",
-      "url": "https://www.prothomalo.com/bangladesh/district/l839e3u8jw",
-      "published": "2026-11-24T16:56:15+00:00",
-      "image": "https://media.prothomalo.com/prothomalo-bangla/2026-11-24/oyut5c88/Name-plate.jpg",
-      "category": "রাজনীতি",
-      "sources": [
-        {
-          "name": "প্রথম আলো",
-          "url": "https://www.prothomalo.com/bangladesh/district/l839e3u8jw"
-        }
-      ],
-      "id": "e12759c57886",
-      "rank": 38
+      "rank": 34
     },
     {
       "title": "খিলগাঁওয়ে ককটেল বিস্ফোরণ, পালানোর সময় যুবক আটক",
@@ -588,7 +528,7 @@
         }
       ],
       "id": "cb8b435483b9",
-      "rank": 39
+      "rank": 35
     },
     {
       "title": "দিনের শেষ ওভারে উল্লাস বাংলাদেশের, প্রোটিয়াদের ৪০৩ রানের বড় লিড",
@@ -603,7 +543,7 @@
         }
       ],
       "id": "e66ae1ef458b",
-      "rank": 40
+      "rank": 36
     },
     {
       "title": "বাড়ি ফেরার পথে ছুরিকাঘাতে প্রাণ গেল যুবকের",
@@ -618,7 +558,7 @@
         }
       ],
       "id": "67bd3e53bfc2",
-      "rank": 41
+      "rank": 37
     },
     {
       "title": "সারাদেশের ৩৫ জেলায় ৯৪টি প্রতিষ্ঠানকে জরিমানা",
@@ -633,7 +573,7 @@
         }
       ],
       "id": "59f45f3b6c6c",
-      "rank": 42
+      "rank": 38
     },
     {
       "title": "সেপটিক ট্যাংকে নেমে বিষাক্ত গ্যাসে স্কুলছাত্রসহ নিহত ২",
@@ -648,7 +588,7 @@
         }
       ],
       "id": "e9b013c9687b",
-      "rank": 43
+      "rank": 39
     },
     {
       "title": "খুলনায় মার্কেটের সামনে গুলি করে কার্যক্রম নিষিদ্ধ আ’লীগ নেতাকে হত্যা",
@@ -663,7 +603,7 @@
         }
       ],
       "id": "eab1a4acaba4",
-      "rank": 44
+      "rank": 40
     },
     {
       "title": "সংক্ষিপ্ত বিশ্ব সংবাদ: ২৪ নভেম্বর ২০২৬",
@@ -678,7 +618,7 @@
         }
       ],
       "id": "9cc6af78644e",
-      "rank": 45
+      "rank": 41
     },
     {
       "title": "নিবন্ধন ফি বেশি, ইবির সমাবর্তন ঘিরে শিক্ষার্থীদের আগ্রহে ভাটা",
@@ -693,7 +633,7 @@
         }
       ],
       "id": "5ab84929246e",
-      "rank": 46
+      "rank": 42
     },
     {
       "title": "আদালতের নাটকীয় রায়: চ্যাম্পিয়নশিপ ফিরে পেলো সেনেগাল",
@@ -708,7 +648,7 @@
         }
       ],
       "id": "fbf046d72054",
-      "rank": 47
+      "rank": 43
     },
     {
       "title": "কৃষকের বরাদ্দের সার গোপন গোডাউনে, ডিলারকে জরিমানা",
@@ -723,7 +663,7 @@
         }
       ],
       "id": "bdd405364d55",
-      "rank": 48
+      "rank": 44
     },
     {
       "title": "দুই ডিআইজিসহ পুলিশের ঊর্ধ্বতন ১৪ কর্মকর্তাকে বদলি",
@@ -738,7 +678,7 @@
         }
       ],
       "id": "fc6a05818c79",
-      "rank": 49
+      "rank": 45
     },
     {
       "title": "রিয়াদের সবচেয়ে উঁচু ভবনে আবারও হামলা",
@@ -753,7 +693,7 @@
         }
       ],
       "id": "08149433db74",
-      "rank": 50
+      "rank": 46
     },
     {
       "title": "নারীর স্বাস্থ্য সুরক্ষায় চট্টগ্রামে ৩ বিশেষ ক্লাব চালু",
@@ -768,7 +708,7 @@
         }
       ],
       "id": "81cfd6c00bc5",
-      "rank": 51
+      "rank": 47
     },
     {
       "title": "কিশোর বয়সেই একের পর এক ভাঙছেন সব রেকর্ড, বড় হলে কী করবেন সূর্যবংশী?",
@@ -783,7 +723,7 @@
         }
       ],
       "id": "32de46cea5d2",
-      "rank": 52
+      "rank": 48
     },
     {
       "title": "খাবারের মেন্যুতে থকাছে কাচ্চি-জালি কাবাব-পাকিস্তানি রোস্ট",
@@ -798,7 +738,7 @@
         }
       ],
       "id": "6538cd28112b",
-      "rank": 53
+      "rank": 49
     },
     {
       "title": "তুলির আঁচড়ে বদলে যাচ্ছে বগুড়ার ওভারপাস",
@@ -813,7 +753,7 @@
         }
       ],
       "id": "877b7d117e05",
-      "rank": 54
+      "rank": 50
     },
     {
       "title": "সরানো হলো কেএমপি কমিশনার সাজ্জাদুরকে",
@@ -828,7 +768,7 @@
         }
       ],
       "id": "3cb567e1caa5",
-      "rank": 55
+      "rank": 51
     },
     {
       "title": "‘ব্যর্থতার’ কপ-৩১, বাংলাদেশের ঝুলিতে হাজার কোটি টাকার প্রতিশ্রুতি",
@@ -843,7 +783,7 @@
         }
       ],
       "id": "dc4293faaa85",
-      "rank": 56
+      "rank": 52
     },
     {
       "title": "১৭৮ জনের সরকারি চাকরি, এসএসসি পাসেই আবেদন",
@@ -858,7 +798,7 @@
         }
       ],
       "id": "7a851f513c8f",
-      "rank": 57
+      "rank": 53
     },
     {
       "title": "শাবিপ্রবিতে প্রথম আন্তর্জাতিক বাংলা ভাষা-সাহিত্য সম্মেলন ২৭ নভেম্বর",
@@ -873,7 +813,7 @@
         }
       ],
       "id": "34fb4e9df9c2",
-      "rank": 58
+      "rank": 54
     },
     {
       "title": "২৬ নভেম্বর প্রকাশ হচ্ছে না ৫০তম বিসিএসের চূড়ান্ত ফল",
@@ -888,7 +828,7 @@
         }
       ],
       "id": "065b8e9709a4",
-      "rank": 59
+      "rank": 55
     },
     {
       "title": "১৬৮ করেও বিশাল জয় পাকিস্তানের, সেমিতে প্রতিপক্ষ বাংলাদেশ",
@@ -903,7 +843,7 @@
         }
       ],
       "id": "da7c9efebdae",
-      "rank": 60
+      "rank": 56
     },
     {
       "title": "বাংলাবান্ধায় পাথর লোডিং বন্ধে বিপাকে ব্যবসায়ীরা",
@@ -918,142 +858,7 @@
         }
       ],
       "id": "e10fbadda3ce",
-      "rank": 61
-    },
-    {
-      "title": "৭৭ প্রতিষ্ঠানের অংশগ্রহণে জবিতে প্রথমবারের মতো জব ফেয়ার",
-      "url": "https://www.jagonews24.com/campus/news/1183321",
-      "published": "2026-11-24T15:09:32+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/campus/news/1183321"
-        }
-      ],
-      "id": "9a532d4aa90a",
-      "rank": 62
-    },
-    {
-      "title": "আওয়ামী লীগের সাবেক এমপি রিমন ও মোস্তাফিজুরের বিরুদ্ধে চার্জশিট",
-      "url": "https://www.jagonews24.com/national/news/1183320",
-      "published": "2026-11-24T15:09:21+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/national/news/1183320"
-        }
-      ],
-      "id": "fbc244ffec07",
-      "rank": 63
-    },
-    {
-      "title": "অসময়ে শুকিয়ে যাচ্ছে হাওর, বোরো আবাদে পানির সংকটের শঙ্কা",
-      "url": "https://www.jagonews24.com/country/news/1183319",
-      "published": "2026-11-24T15:07:19+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/country/news/1183319"
-        }
-      ],
-      "id": "50c3d191c660",
-      "rank": 64
-    },
-    {
-      "title": "ঘূর্ণিঝড়-নিম্নচাপের প্রভাব কাটতেই পশ্চিমবঙ্গে ফিরছে শীত",
-      "url": "https://www.jagonews24.com/international/news/1183318",
-      "published": "2026-11-24T15:07:18+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/international/news/1183318"
-        }
-      ],
-      "id": "6c3e945e2ec8",
-      "rank": 65
-    },
-    {
-      "title": "অধিগ্রহণের জমির বাজারমূল্য নির্ধারণে নতুন নির্দেশনা",
-      "url": "https://www.jagonews24.com/national/news/1183317",
-      "published": "2026-11-24T14:57:00+00:00",
-      "image": "",
-      "category": "অর্থনীতি",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/national/news/1183317"
-        }
-      ],
-      "id": "4d2bd61599de",
-      "rank": 66
-    },
-    {
-      "title": "বাল্যবিবাহ রোধে নারী-পুরুষের বিয়ের বয়স ১৮ করার প্রস্তাব",
-      "url": "https://www.jagonews24.com/women-and-children/news/1183316",
-      "published": "2026-11-24T14:51:44+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/women-and-children/news/1183316"
-        }
-      ],
-      "id": "ba360834ea18",
-      "rank": 67
-    },
-    {
-      "title": "নেই সংযোগ সড়ক, কাজে আসছে না ১৪ কোটি টাকার সেতু",
-      "url": "https://www.jagonews24.com/country/news/1183315",
-      "published": "2026-11-24T14:50:59+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/country/news/1183315"
-        }
-      ],
-      "id": "1e4077b7fc91",
-      "rank": 68
-    },
-    {
-      "title": "কক্সবাজারে বাসচাপায় অটোরিকশার ৫ যাত্রী নিহত",
-      "url": "https://www.jagonews24.com/country/news/1183314",
-      "published": "2026-11-24T14:50:30+00:00",
-      "image": "",
-      "category": "অর্থনীতি",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/country/news/1183314"
-        }
-      ],
-      "id": "3bfcd2c98dea",
-      "rank": 69
-    },
-    {
-      "title": "ভোটাররা শেখ হাসিনা ইস্যুতে মারামারি করতে পাশে দাঁড়াবেন না",
-      "url": "https://www.jagonews24.com/politics/news/1183313",
-      "published": "2026-11-24T14:49:05+00:00",
-      "image": "",
-      "category": "জাতীয়",
-      "sources": [
-        {
-          "name": "জাগো নিউজ ২৪",
-          "url": "https://www.jagonews24.com/politics/news/1183313"
-        }
-      ],
-      "id": "9aa4d862182c",
-      "rank": 70
+      "rank": 57
     },
     {
       "title": "ভারত ২০৭০ সালেও বৃহত্তম হিন্দু সংখ্যাগরিষ্ঠ দেশ থাকবে, পাকিস্তান হবে সবচেয়ে বেশি মুসলমানের দেশ",
@@ -1068,7 +873,7 @@
         }
       ],
       "id": "5e9285074193",
-      "rank": 71
+      "rank": 58
     },
     {
       "title": "শেখ হাসিনা '১৬ই ডিসেম্বর ফিরতে চান', 'বাস্তবতা ভিন্ন' বলছে সরকার",
@@ -1083,7 +888,7 @@
         }
       ],
       "id": "4c5fb0a889c5",
-      "rank": 72
+      "rank": 59
     },
     {
       "title": "ইরানের 'বিকল্প ব্যাংকিং নেটওয়ার্কে'র ওপর যুক্তরাষ্ট্রের নতুন নিষেধাজ্ঞা",
@@ -1098,7 +903,7 @@
         }
       ],
       "id": "c3558f1c54b6",
-      "rank": 73
+      "rank": 60
     },
     {
       "title": "পত্রিকা: 'সরকারের কাছে ৭৫ হাজার কোটি টাকা চায় ইসলামী ব্যাংক'",
@@ -1113,7 +918,7 @@
         }
       ],
       "id": "de2a46be2ce2",
-      "rank": 74
+      "rank": 61
     },
     {
       "title": "জেমস বন্ড সিরিজ যেভাবে বাংলা গোয়েন্দা গল্পকে প্রভাবিত করেছে",
@@ -1128,7 +933,7 @@
         }
       ],
       "id": "665ca2cca117",
-      "rank": 75
+      "rank": 62
     },
     {
       "title": "পোশাক শ্রমিকদের ন্যূনতম মজুরি নিয়ে ঠিক কী হচ্ছে?",
@@ -1143,14 +948,14 @@
         }
       ],
       "id": "0e2b2527931c",
-      "rank": 76
+      "rank": 63
     }
   ],
   "feed_status": [
     {
       "source": "প্রথম আলো",
       "ok": true,
-      "items": 18
+      "items": 5
     },
     {
       "source": "The Daily Star",
